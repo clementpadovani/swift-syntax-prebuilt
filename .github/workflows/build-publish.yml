@@ -99,7 +99,7 @@ jobs:
                 module_name = "swift-syntax",
                 integrity = "$bzlmod_sha256",
                 strip_prefix = "swift-syntax-$release_tag",
-                urls = ["https://github.com/square/swift-syntax-prebuilt/releases/download/$release_tag/swift-syntax-$release_tag.tar.gz"],
+                urls = ["https://github.com/clementpadovani/swift-syntax-prebuilt/releases/download/$release_tag/swift-syntax-$release_tag.tar.gz"],
             )
             \`\`\`
           EOF
